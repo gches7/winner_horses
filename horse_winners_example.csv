@@ -1,0 +1,501 @@
+pedigree,breed,favorable_proportions,trainer,training_frequency,age,has_disease,vet_care,special_feed,supplementation,win_probability
+Winners,Arabian,1,Trainer C,4,4,0,0,0,1,0.65
+Non-Winners,Thoroughbred,1,Trainer D,5,8,0,1,0,1,0.55
+Winners,Thoroughbred,1,Trainer B,3,6,0,1,1,0,0.7000000000000001
+Winners,Mangalarga,0,Trainer D,4,7,0,1,0,1,0.55
+Winners,Arabian,1,Trainer D,4,7,0,0,0,1,0.6
+Non-Winners,Thoroughbred,1,Trainer C,5,4,0,1,1,1,0.6500000000000001
+Winners,Mangalarga,0,Trainer D,3,3,0,1,0,1,0.6000000000000001
+Winners,Arabian,0,Trainer C,4,6,0,1,1,0,0.6000000000000001
+Winners,Mangalarga,0,Trainer A,6,7,0,1,0,1,0.65
+Non-Winners,Quarter Horse,0,Trainer A,6,4,0,1,1,1,0.55
+Winners,Thoroughbred,1,Trainer C,6,7,0,1,1,1,0.8
+Winners,Quarter Horse,1,Trainer A,3,9,1,1,0,1,0.55
+Winners,Arabian,0,Trainer B,4,6,0,1,0,1,0.6000000000000001
+Winners,Quarter Horse,0,Trainer D,6,6,0,1,1,1,0.7500000000000001
+Non-Winners,Quarter Horse,1,Trainer B,3,9,1,1,1,0,0.35000000000000003
+Winners,Arabian,1,Trainer D,6,5,1,0,0,0,0.6
+Non-Winners,Mangalarga,1,Trainer A,5,9,0,1,1,1,0.6000000000000001
+Non-Winners,Quarter Horse,0,Trainer B,4,8,0,0,1,0,0.3
+Non-Winners,Mangalarga,0,Trainer A,4,8,0,0,1,1,0.35
+Winners,Quarter Horse,1,Trainer D,3,4,1,1,1,1,0.6500000000000001
+Non-Winners,Mangalarga,1,Trainer C,3,6,1,1,0,0,0.35
+Winners,Arabian,1,Trainer C,4,5,0,1,0,1,0.7000000000000001
+Non-Winners,Quarter Horse,0,Trainer B,6,5,0,1,1,0,0.5
+Non-Winners,Arabian,0,Trainer A,6,7,0,1,0,1,0.45
+Non-Winners,Quarter Horse,0,Trainer A,5,7,0,1,1,1,0.5
+Non-Winners,Arabian,1,Trainer B,6,9,0,1,0,1,0.55
+Non-Winners,Arabian,1,Trainer C,3,5,0,0,0,0,0.4
+Non-Winners,Quarter Horse,1,Trainer D,3,9,0,1,1,0,0.45
+Non-Winners,Quarter Horse,1,Trainer B,6,9,0,0,0,0,0.45
+Non-Winners,Quarter Horse,0,Trainer D,3,7,0,1,0,1,0.35
+Winners,Thoroughbred,0,Trainer C,4,6,0,0,1,1,0.6000000000000001
+Winners,Mangalarga,0,Trainer A,4,9,0,1,1,1,0.6000000000000001
+Non-Winners,Thoroughbred,0,Trainer C,6,3,1,1,1,1,0.45000000000000007
+Non-Winners,Thoroughbred,1,Trainer B,4,6,0,1,0,0,0.45
+Non-Winners,Arabian,0,Trainer A,4,5,1,1,0,1,0.29999999999999993
+Winners,Quarter Horse,0,Trainer B,5,5,0,1,0,0,0.65
+Non-Winners,Mangalarga,0,Trainer B,5,9,0,0,0,0,0.35000000000000003
+Winners,Arabian,1,Trainer C,4,6,0,1,0,1,0.7000000000000001
+Winners,Thoroughbred,1,Trainer B,6,7,0,1,0,0,0.7
+Winners,Quarter Horse,1,Trainer C,5,7,0,1,0,1,0.75
+Winners,Arabian,0,Trainer A,3,8,0,0,1,1,0.55
+Winners,Quarter Horse,1,Trainer C,3,5,1,1,0,1,0.6000000000000001
+Non-Winners,Arabian,1,Trainer A,3,4,0,1,0,1,0.5
+Non-Winners,Quarter Horse,1,Trainer C,6,8,0,1,1,1,0.6000000000000001
+Non-Winners,Thoroughbred,1,Trainer D,4,7,1,1,0,1,0.35000000000000003
+Non-Winners,Mangalarga,1,Trainer D,3,6,0,1,1,1,0.55
+Non-Winners,Thoroughbred,1,Trainer B,6,7,0,0,0,1,0.5
+Winners,Mangalarga,1,Trainer C,5,6,0,1,0,0,0.75
+Non-Winners,Quarter Horse,1,Trainer C,4,8,0,0,1,0,0.4
+Non-Winners,Arabian,0,Trainer A,5,5,1,1,1,1,0.45000000000000007
+Winners,Thoroughbred,1,Trainer B,6,7,0,1,1,1,0.8
+Non-Winners,Mangalarga,0,Trainer C,3,9,1,0,0,0,0.14999999999999997
+Winners,Thoroughbred,1,Trainer B,3,6,0,1,1,1,0.7500000000000001
+Non-Winners,Mangalarga,1,Trainer D,6,5,0,0,0,0,0.5
+Winners,Thoroughbred,0,Trainer C,3,4,0,1,1,1,0.6500000000000001
+Non-Winners,Mangalarga,1,Trainer C,4,6,0,1,0,1,0.5
+Non-Winners,Mangalarga,1,Trainer B,6,8,1,0,0,1,0.4000000000000001
+Winners,Quarter Horse,1,Trainer C,5,4,1,1,1,1,0.7500000000000001
+Winners,Mangalarga,0,Trainer B,6,4,1,1,0,0,0.55
+Winners,Quarter Horse,1,Trainer C,4,3,0,1,1,1,0.7500000000000001
+Winners,Mangalarga,0,Trainer A,4,7,1,1,0,0,0.4000000000000001
+Winners,Arabian,1,Trainer B,6,6,0,0,1,0,0.75
+Winners,Arabian,1,Trainer C,6,4,0,1,1,1,0.8500000000000001
+Winners,Arabian,1,Trainer D,3,3,0,1,1,0,0.7000000000000001
+Winners,Mangalarga,1,Trainer C,4,8,1,1,1,1,0.6000000000000001
+Non-Winners,Quarter Horse,1,Trainer D,6,5,0,1,1,1,0.6500000000000001
+Non-Winners,Quarter Horse,1,Trainer D,6,9,0,1,0,0,0.5
+Winners,Mangalarga,1,Trainer A,4,9,0,1,0,1,0.65
+Non-Winners,Arabian,0,Trainer B,6,6,0,0,1,1,0.5
+Non-Winners,Arabian,1,Trainer C,3,4,1,1,0,1,0.4
+Non-Winners,Quarter Horse,1,Trainer A,4,9,0,1,1,1,0.5
+Non-Winners,Arabian,0,Trainer C,3,7,0,1,0,0,0.3
+Winners,Thoroughbred,1,Trainer D,3,9,0,1,0,0,0.6
+Non-Winners,Quarter Horse,1,Trainer B,3,9,0,1,0,0,0.4
+Winners,Arabian,0,Trainer C,3,9,0,1,0,0,0.5
+Non-Winners,Quarter Horse,0,Trainer C,4,3,0,1,1,1,0.44999999999999996
+Non-Winners,Thoroughbred,1,Trainer D,3,4,0,1,0,1,0.5
+Non-Winners,Quarter Horse,0,Trainer C,3,7,0,1,0,1,0.35
+Winners,Quarter Horse,1,Trainer C,6,4,0,0,1,1,0.8
+Non-Winners,Quarter Horse,1,Trainer D,4,6,0,0,0,1,0.45
+Winners,Quarter Horse,1,Trainer A,4,6,0,0,1,0,0.65
+Non-Winners,Thoroughbred,0,Trainer D,5,6,1,1,0,1,0.4
+Winners,Mangalarga,1,Trainer A,4,8,1,1,1,1,0.6000000000000001
+Non-Winners,Quarter Horse,1,Trainer B,4,9,0,1,1,1,0.5
+Winners,Quarter Horse,1,Trainer A,5,8,0,1,0,0,0.7
+Winners,Arabian,1,Trainer A,4,3,0,1,0,0,0.65
+Non-Winners,Quarter Horse,1,Trainer B,4,6,0,0,1,1,0.5
+Winners,Arabian,1,Trainer A,4,7,0,0,1,1,0.65
+Non-Winners,Mangalarga,1,Trainer D,4,4,1,1,0,0,0.35
+Non-Winners,Thoroughbred,1,Trainer A,5,9,0,1,1,1,0.6000000000000001
+Non-Winners,Thoroughbred,1,Trainer B,4,5,1,0,1,1,0.4
+Non-Winners,Mangalarga,1,Trainer D,4,7,0,1,0,0,0.4
+Non-Winners,Thoroughbred,1,Trainer B,5,9,0,1,0,0,0.5
+Non-Winners,Mangalarga,1,Trainer B,6,8,1,0,1,1,0.4500000000000001
+Non-Winners,Mangalarga,0,Trainer C,3,8,0,1,0,0,0.3
+Non-Winners,Mangalarga,1,Trainer C,6,7,0,1,0,0,0.5
+Non-Winners,Thoroughbred,1,Trainer B,5,8,0,1,0,1,0.55
+Non-Winners,Arabian,1,Trainer B,3,6,0,0,0,0,0.4
+Non-Winners,Mangalarga,1,Trainer B,5,3,0,1,1,0,0.6000000000000001
+Winners,Quarter Horse,1,Trainer C,5,4,1,1,1,0,0.7000000000000001
+Winners,Thoroughbred,1,Trainer C,4,3,1,1,1,0,0.6000000000000001
+Non-Winners,Mangalarga,1,Trainer A,3,9,1,1,0,1,0.35000000000000003
+Non-Winners,Mangalarga,1,Trainer A,4,4,0,1,1,1,0.55
+Non-Winners,Quarter Horse,1,Trainer B,3,4,0,1,0,1,0.5
+Non-Winners,Arabian,1,Trainer D,5,3,0,1,1,1,0.6500000000000001
+Non-Winners,Arabian,1,Trainer D,5,7,1,0,1,1,0.4500000000000001
+Non-Winners,Arabian,1,Trainer C,6,4,0,1,0,0,0.55
+Non-Winners,Mangalarga,1,Trainer C,3,3,0,1,1,0,0.5
+Non-Winners,Mangalarga,1,Trainer C,4,4,0,1,1,0,0.5
+Winners,Mangalarga,1,Trainer B,6,5,0,1,0,0,0.75
+Non-Winners,Thoroughbred,1,Trainer D,6,7,0,1,1,0,0.55
+Winners,Quarter Horse,0,Trainer A,6,6,1,1,0,1,0.6000000000000001
+Non-Winners,Mangalarga,1,Trainer B,4,4,0,1,0,1,0.5
+Non-Winners,Quarter Horse,1,Trainer A,6,5,0,1,1,1,0.6500000000000001
+Winners,Quarter Horse,0,Trainer A,4,6,0,1,0,0,0.55
+Non-Winners,Arabian,0,Trainer B,6,6,0,1,0,1,0.5
+Winners,Thoroughbred,1,Trainer A,4,9,0,0,1,0,0.6
+Non-Winners,Mangalarga,1,Trainer D,5,4,0,1,1,1,0.6500000000000001
+Non-Winners,Arabian,0,Trainer A,5,3,0,1,1,0,0.5
+Winners,Arabian,0,Trainer D,5,4,0,1,0,0,0.65
+Non-Winners,Mangalarga,1,Trainer D,5,5,0,1,1,0,0.6000000000000001
+Winners,Quarter Horse,1,Trainer D,5,6,0,1,0,0,0.75
+Non-Winners,Arabian,1,Trainer C,6,4,0,1,0,0,0.55
+Winners,Quarter Horse,1,Trainer A,6,3,0,1,0,0,0.75
+Winners,Thoroughbred,1,Trainer B,6,9,0,1,1,0,0.75
+Non-Winners,Quarter Horse,1,Trainer B,4,4,1,0,1,0,0.35
+Non-Winners,Thoroughbred,1,Trainer A,4,7,0,1,0,0,0.4
+Winners,Quarter Horse,0,Trainer C,4,9,0,0,1,1,0.55
+Non-Winners,Arabian,1,Trainer C,4,3,0,1,1,1,0.55
+Non-Winners,Arabian,1,Trainer D,5,5,0,1,1,1,0.6500000000000001
+Non-Winners,Thoroughbred,0,Trainer A,5,6,0,1,1,1,0.55
+Winners,Mangalarga,0,Trainer A,5,4,0,1,0,1,0.7000000000000001
+Winners,Thoroughbred,1,Trainer B,3,3,0,0,1,0,0.65
+Winners,Thoroughbred,1,Trainer A,6,9,1,1,1,0,0.65
+Winners,Quarter Horse,1,Trainer C,4,7,0,0,1,0,0.6
+Winners,Quarter Horse,1,Trainer A,4,3,0,1,0,1,0.7000000000000001
+Winners,Thoroughbred,1,Trainer B,5,8,0,1,0,1,0.75
+Winners,Arabian,1,Trainer D,4,7,0,1,1,1,0.7000000000000001
+Winners,Quarter Horse,1,Trainer B,4,9,1,1,0,1,0.55
+Winners,Mangalarga,1,Trainer B,6,5,0,0,0,1,0.75
+Non-Winners,Quarter Horse,1,Trainer D,5,6,1,1,0,1,0.5000000000000001
+Winners,Quarter Horse,1,Trainer B,6,9,1,1,0,0,0.6
+Non-Winners,Mangalarga,1,Trainer B,3,5,1,1,1,0,0.4
+Non-Winners,Thoroughbred,1,Trainer A,3,4,1,1,1,1,0.45000000000000007
+Non-Winners,Mangalarga,1,Trainer A,3,3,1,1,1,1,0.45000000000000007
+Winners,Thoroughbred,0,Trainer D,5,8,0,1,1,1,0.7000000000000001
+Winners,Thoroughbred,1,Trainer A,4,7,0,0,0,1,0.6
+Winners,Thoroughbred,1,Trainer A,5,7,0,1,1,0,0.75
+Winners,Mangalarga,0,Trainer B,5,3,0,1,1,1,0.7500000000000001
+Non-Winners,Thoroughbred,1,Trainer C,4,8,0,1,0,1,0.45
+Winners,Arabian,1,Trainer A,6,3,1,1,0,1,0.7000000000000001
+Winners,Mangalarga,1,Trainer C,3,4,0,0,1,1,0.7000000000000001
+Winners,Arabian,1,Trainer A,6,5,0,1,1,0,0.8
+Winners,Thoroughbred,0,Trainer A,3,9,1,1,1,0,0.4500000000000001
+Winners,Quarter Horse,1,Trainer D,5,7,0,1,0,0,0.7
+Non-Winners,Thoroughbred,1,Trainer D,3,4,0,1,1,1,0.55
+Winners,Arabian,1,Trainer D,5,5,0,1,1,1,0.8500000000000001
+Non-Winners,Arabian,1,Trainer C,6,4,1,0,0,1,0.45000000000000007
+Winners,Mangalarga,1,Trainer B,5,8,0,1,1,0,0.75
+Non-Winners,Quarter Horse,1,Trainer A,6,7,0,0,0,1,0.5
+Winners,Mangalarga,1,Trainer A,4,9,1,1,1,1,0.6000000000000001
+Winners,Arabian,0,Trainer A,4,3,0,1,1,0,0.6000000000000001
+Non-Winners,Thoroughbred,1,Trainer C,4,3,0,1,0,0,0.45
+Non-Winners,Quarter Horse,1,Trainer D,5,5,0,1,0,1,0.6000000000000001
+Non-Winners,Thoroughbred,1,Trainer B,4,9,0,0,1,1,0.45
+Winners,Thoroughbred,1,Trainer C,3,6,0,1,0,1,0.7000000000000001
+Non-Winners,Quarter Horse,1,Trainer D,6,8,0,0,0,0,0.45
+Winners,Mangalarga,1,Trainer C,6,5,0,1,0,1,0.8
+Winners,Thoroughbred,1,Trainer B,3,6,1,1,1,0,0.6000000000000001
+Non-Winners,Arabian,1,Trainer D,5,4,0,1,0,1,0.6000000000000001
+Non-Winners,Thoroughbred,1,Trainer C,5,8,0,1,1,0,0.55
+Winners,Quarter Horse,0,Trainer B,6,4,0,1,1,0,0.7000000000000001
+Winners,Quarter Horse,1,Trainer A,4,9,1,0,1,1,0.55
+Non-Winners,Quarter Horse,1,Trainer B,5,7,0,1,1,0,0.55
+Non-Winners,Mangalarga,1,Trainer A,5,8,0,1,0,1,0.55
+Non-Winners,Thoroughbred,0,Trainer C,3,6,0,1,1,0,0.39999999999999997
+Winners,Mangalarga,1,Trainer D,3,7,0,0,1,0,0.6
+Winners,Mangalarga,1,Trainer D,4,3,1,1,0,1,0.6000000000000001
+Winners,Quarter Horse,0,Trainer C,5,6,0,0,1,0,0.65
+Winners,Quarter Horse,0,Trainer D,5,5,0,1,1,0,0.7000000000000001
+Winners,Mangalarga,0,Trainer D,3,3,1,1,1,1,0.5500000000000002
+Winners,Thoroughbred,1,Trainer A,5,3,0,1,1,1,0.8500000000000001
+Non-Winners,Arabian,1,Trainer C,6,5,0,1,1,0,0.6000000000000001
+Winners,Mangalarga,1,Trainer B,3,8,0,1,0,0,0.6
+Winners,Thoroughbred,0,Trainer A,4,3,0,1,1,1,0.6500000000000001
+Winners,Quarter Horse,1,Trainer C,3,9,0,1,1,1,0.7000000000000001
+Non-Winners,Quarter Horse,1,Trainer A,5,6,0,1,0,1,0.6000000000000001
+Winners,Thoroughbred,1,Trainer B,4,7,0,1,0,1,0.65
+Winners,Arabian,0,Trainer B,3,3,0,0,1,1,0.6000000000000001
+Non-Winners,Quarter Horse,1,Trainer C,6,6,1,1,0,0,0.45000000000000007
+Winners,Quarter Horse,1,Trainer B,6,4,0,0,1,1,0.8
+Winners,Quarter Horse,1,Trainer A,3,6,0,1,1,0,0.7000000000000001
+Winners,Thoroughbred,1,Trainer B,6,7,0,1,0,1,0.75
+Winners,Mangalarga,1,Trainer A,6,6,0,1,1,1,0.8500000000000001
+Winners,Quarter Horse,1,Trainer A,6,5,0,1,0,1,0.8
+Non-Winners,Mangalarga,1,Trainer B,4,7,0,1,1,1,0.5
+Non-Winners,Arabian,1,Trainer C,6,8,1,1,0,0,0.4000000000000001
+Non-Winners,Quarter Horse,1,Trainer D,6,4,0,1,1,0,0.6000000000000001
+Winners,Quarter Horse,1,Trainer B,6,5,0,1,0,0,0.75
+Winners,Arabian,1,Trainer A,4,8,0,1,0,0,0.6
+Winners,Quarter Horse,1,Trainer A,3,6,0,1,0,0,0.65
+Non-Winners,Mangalarga,1,Trainer B,5,7,0,1,1,1,0.6000000000000001
+Winners,Thoroughbred,1,Trainer C,6,4,0,1,0,0,0.75
+Winners,Mangalarga,1,Trainer C,3,5,0,0,0,0,0.6
+Non-Winners,Thoroughbred,1,Trainer A,6,8,0,0,0,1,0.5
+Winners,Thoroughbred,0,Trainer A,4,8,0,1,0,0,0.5
+Non-Winners,Mangalarga,1,Trainer C,3,4,1,1,0,1,0.4
+Non-Winners,Mangalarga,0,Trainer D,4,9,0,1,1,1,0.39999999999999997
+Non-Winners,Mangalarga,1,Trainer B,6,6,0,1,1,0,0.6000000000000001
+Winners,Mangalarga,1,Trainer A,6,4,0,1,1,1,0.8500000000000001
+Winners,Arabian,0,Trainer A,4,8,1,1,1,1,0.5000000000000001
+Winners,Quarter Horse,1,Trainer C,5,3,1,1,0,0,0.65
+Winners,Thoroughbred,1,Trainer B,4,5,0,1,0,0,0.65
+Winners,Mangalarga,1,Trainer C,6,4,1,1,0,1,0.7000000000000001
+Winners,Mangalarga,1,Trainer B,4,9,0,1,1,0,0.65
+Winners,Mangalarga,0,Trainer B,5,8,0,0,0,1,0.6
+Non-Winners,Arabian,0,Trainer B,4,6,0,1,0,1,0.39999999999999997
+Winners,Mangalarga,0,Trainer A,5,8,1,1,0,0,0.5
+Non-Winners,Mangalarga,1,Trainer D,5,6,0,0,0,0,0.5
+Winners,Mangalarga,0,Trainer C,4,4,1,1,1,1,0.5500000000000002
+Winners,Quarter Horse,0,Trainer D,4,6,1,1,0,0,0.45000000000000007
+Winners,Arabian,1,Trainer C,3,7,0,1,0,0,0.6
+Non-Winners,Mangalarga,1,Trainer B,6,7,0,1,1,1,0.6000000000000001
+Non-Winners,Thoroughbred,0,Trainer A,5,7,0,0,1,1,0.45
+Non-Winners,Thoroughbred,1,Trainer D,3,9,0,1,0,1,0.45
+Non-Winners,Thoroughbred,0,Trainer A,4,9,0,0,0,0,0.25
+Winners,Arabian,1,Trainer C,6,3,0,1,0,0,0.75
+Non-Winners,Arabian,0,Trainer A,3,9,0,1,0,0,0.3
+Winners,Thoroughbred,1,Trainer A,5,4,0,1,1,0,0.8
+Winners,Mangalarga,1,Trainer D,3,8,1,1,1,0,0.55
+Non-Winners,Arabian,1,Trainer B,5,8,0,1,1,1,0.6000000000000001
+Non-Winners,Thoroughbred,0,Trainer A,4,3,1,1,1,1,0.35
+Non-Winners,Thoroughbred,1,Trainer B,6,9,0,1,1,1,0.6000000000000001
+Non-Winners,Mangalarga,1,Trainer C,6,6,0,1,1,1,0.6500000000000001
+Non-Winners,Quarter Horse,1,Trainer A,6,3,0,0,1,0,0.55
+Non-Winners,Arabian,0,Trainer D,4,6,0,1,0,0,0.35
+Non-Winners,Mangalarga,1,Trainer C,5,6,0,1,1,1,0.6500000000000001
+Non-Winners,Thoroughbred,0,Trainer C,4,5,1,1,0,1,0.29999999999999993
+Winners,Thoroughbred,1,Trainer D,6,8,0,0,0,0,0.6499999999999999
+Non-Winners,Mangalarga,1,Trainer A,4,7,0,1,1,1,0.5
+Non-Winners,Arabian,1,Trainer A,4,9,0,0,1,1,0.45
+Winners,Quarter Horse,1,Trainer C,4,6,1,1,1,1,0.6500000000000001
+Non-Winners,Quarter Horse,0,Trainer A,5,5,0,1,1,1,0.55
+Winners,Thoroughbred,1,Trainer B,3,8,0,1,0,0,0.6
+Winners,Arabian,1,Trainer D,3,7,0,0,1,1,0.65
+Non-Winners,Quarter Horse,0,Trainer B,4,6,0,1,1,1,0.44999999999999996
+Winners,Arabian,1,Trainer A,3,6,0,1,1,1,0.7500000000000001
+Winners,Arabian,1,Trainer C,3,3,0,1,0,0,0.65
+Winners,Thoroughbred,0,Trainer D,4,3,0,1,0,1,0.6000000000000001
+Winners,Quarter Horse,1,Trainer A,4,8,1,0,0,1,0.5
+Non-Winners,Mangalarga,1,Trainer A,6,7,0,1,1,1,0.6000000000000001
+Winners,Thoroughbred,0,Trainer C,3,6,1,0,0,1,0.45000000000000007
+Non-Winners,Quarter Horse,1,Trainer C,5,8,0,1,0,1,0.55
+Winners,Quarter Horse,1,Trainer B,4,8,0,1,0,0,0.6
+Winners,Quarter Horse,1,Trainer D,6,4,0,1,0,1,0.8
+Winners,Quarter Horse,0,Trainer D,5,9,0,1,1,1,0.7000000000000001
+Winners,Quarter Horse,1,Trainer C,3,3,1,1,0,0,0.55
+Non-Winners,Arabian,1,Trainer B,6,7,1,1,0,1,0.4500000000000001
+Non-Winners,Thoroughbred,0,Trainer D,4,6,0,1,1,1,0.44999999999999996
+Winners,Arabian,0,Trainer C,5,8,0,0,1,1,0.65
+Winners,Mangalarga,1,Trainer A,4,6,1,0,0,0,0.5
+Non-Winners,Quarter Horse,1,Trainer D,3,4,0,0,1,1,0.5
+Winners,Thoroughbred,1,Trainer B,5,7,0,0,0,0,0.6499999999999999
+Winners,Quarter Horse,0,Trainer B,3,8,0,1,0,0,0.5
+Winners,Thoroughbred,1,Trainer B,3,6,0,1,0,1,0.7000000000000001
+Non-Winners,Arabian,1,Trainer A,6,3,0,1,1,0,0.6000000000000001
+Non-Winners,Thoroughbred,0,Trainer D,4,9,0,1,0,1,0.35
+Non-Winners,Mangalarga,0,Trainer D,5,4,0,1,1,1,0.55
+Winners,Mangalarga,1,Trainer A,3,7,0,1,0,0,0.6
+Winners,Thoroughbred,0,Trainer D,3,4,0,1,1,0,0.6000000000000001
+Non-Winners,Thoroughbred,1,Trainer A,5,3,0,1,0,0,0.55
+Non-Winners,Thoroughbred,0,Trainer A,3,7,0,1,0,1,0.35
+Non-Winners,Thoroughbred,1,Trainer A,6,4,0,1,0,1,0.6000000000000001
+Non-Winners,Mangalarga,1,Trainer B,6,5,1,1,0,0,0.45000000000000007
+Winners,Quarter Horse,0,Trainer D,6,3,0,1,0,1,0.7000000000000001
+Non-Winners,Thoroughbred,1,Trainer A,6,3,0,1,0,1,0.6000000000000001
+Winners,Thoroughbred,1,Trainer D,3,3,1,1,1,1,0.6500000000000001
+Non-Winners,Mangalarga,0,Trainer B,5,5,0,0,0,1,0.45
+Winners,Mangalarga,0,Trainer A,5,5,0,1,1,0,0.7000000000000001
+Non-Winners,Arabian,1,Trainer C,5,6,0,1,0,1,0.6000000000000001
+Non-Winners,Thoroughbred,1,Trainer B,5,8,0,0,1,0,0.5
+Non-Winners,Arabian,1,Trainer C,4,9,0,1,1,1,0.5
+Non-Winners,Mangalarga,1,Trainer D,5,4,1,1,0,0,0.45000000000000007
+Winners,Mangalarga,1,Trainer D,4,6,0,1,1,1,0.7500000000000001
+Non-Winners,Quarter Horse,1,Trainer B,4,4,0,1,1,1,0.55
+Winners,Thoroughbred,0,Trainer D,6,9,0,1,0,1,0.65
+Winners,Arabian,1,Trainer C,4,8,0,1,0,1,0.65
+Winners,Mangalarga,1,Trainer A,3,5,0,0,0,1,0.65
+Winners,Mangalarga,1,Trainer A,4,8,0,1,1,0,0.65
+Non-Winners,Arabian,0,Trainer A,6,5,0,1,0,0,0.45
+Winners,Quarter Horse,1,Trainer B,4,9,0,1,1,1,0.7000000000000001
+Winners,Mangalarga,1,Trainer D,3,8,0,1,0,1,0.65
+Winners,Thoroughbred,1,Trainer C,3,6,1,1,0,1,0.6000000000000001
+Non-Winners,Mangalarga,1,Trainer D,3,7,1,1,0,1,0.35000000000000003
+Non-Winners,Thoroughbred,1,Trainer D,6,6,0,0,1,0,0.55
+Non-Winners,Arabian,0,Trainer D,6,4,1,1,1,0,0.4
+Non-Winners,Thoroughbred,0,Trainer A,5,6,0,1,1,1,0.55
+Winners,Arabian,1,Trainer C,6,9,0,1,1,1,0.8
+Winners,Thoroughbred,1,Trainer C,3,3,0,1,1,1,0.7500000000000001
+Non-Winners,Arabian,0,Trainer D,3,4,0,1,0,0,0.35
+Winners,Thoroughbred,0,Trainer A,6,8,0,1,1,1,0.7000000000000001
+Winners,Quarter Horse,1,Trainer A,4,4,0,1,0,0,0.65
+Winners,Thoroughbred,1,Trainer C,6,7,1,1,1,0,0.65
+Non-Winners,Thoroughbred,1,Trainer A,6,5,0,0,0,1,0.55
+Non-Winners,Quarter Horse,1,Trainer A,3,8,0,1,0,0,0.4
+Winners,Mangalarga,0,Trainer A,5,4,0,0,1,1,0.7000000000000001
+Non-Winners,Mangalarga,0,Trainer B,3,8,0,1,1,0,0.35
+Non-Winners,Thoroughbred,0,Trainer D,5,8,0,1,0,1,0.45
+Non-Winners,Quarter Horse,1,Trainer C,3,8,0,1,1,1,0.5
+Non-Winners,Thoroughbred,1,Trainer C,6,5,0,1,0,0,0.55
+Non-Winners,Arabian,0,Trainer B,3,9,1,1,0,0,0.19999999999999996
+Winners,Arabian,0,Trainer D,3,6,0,1,0,0,0.55
+Non-Winners,Thoroughbred,1,Trainer C,3,8,1,1,1,1,0.4000000000000001
+Winners,Mangalarga,0,Trainer A,6,3,1,1,0,0,0.55
+Winners,Mangalarga,0,Trainer C,6,9,1,1,0,1,0.55
+Non-Winners,Thoroughbred,1,Trainer A,6,7,0,0,0,0,0.45
+Winners,Thoroughbred,1,Trainer B,6,5,0,1,1,1,0.8500000000000001
+Winners,Arabian,1,Trainer A,5,4,0,1,0,0,0.75
+Winners,Mangalarga,1,Trainer C,5,5,0,1,1,0,0.8
+Non-Winners,Thoroughbred,1,Trainer C,4,4,0,0,0,0,0.4
+Non-Winners,Arabian,0,Trainer C,6,5,1,0,1,1,0.4
+Winners,Mangalarga,1,Trainer B,5,4,0,1,0,1,0.8
+Non-Winners,Quarter Horse,1,Trainer B,3,8,0,1,1,0,0.45
+Non-Winners,Arabian,1,Trainer D,6,6,0,1,0,1,0.6000000000000001
+Non-Winners,Mangalarga,1,Trainer C,4,4,0,1,0,0,0.45
+Non-Winners,Mangalarga,0,Trainer A,4,4,1,1,0,1,0.29999999999999993
+Winners,Arabian,1,Trainer B,4,3,0,1,0,1,0.7000000000000001
+Winners,Quarter Horse,1,Trainer C,3,4,0,1,1,0,0.7000000000000001
+Non-Winners,Arabian,0,Trainer C,5,3,0,1,0,0,0.45
+Non-Winners,Mangalarga,1,Trainer B,3,7,1,0,1,1,0.35000000000000003
+Winners,Thoroughbred,1,Trainer D,6,8,0,1,0,1,0.75
+Winners,Thoroughbred,1,Trainer B,4,3,0,1,0,1,0.7000000000000001
+Non-Winners,Arabian,1,Trainer B,3,6,1,1,0,0,0.35
+Winners,Mangalarga,1,Trainer A,3,9,0,0,1,1,0.65
+Non-Winners,Thoroughbred,1,Trainer A,5,8,0,1,0,0,0.5
+Non-Winners,Mangalarga,1,Trainer D,5,3,0,0,0,0,0.5
+Winners,Arabian,0,Trainer C,4,8,0,0,1,1,0.55
+Winners,Thoroughbred,1,Trainer B,3,8,0,1,0,0,0.6
+Non-Winners,Mangalarga,1,Trainer D,3,8,0,1,1,1,0.5
+Non-Winners,Thoroughbred,1,Trainer A,5,7,0,0,1,1,0.55
+Winners,Arabian,1,Trainer B,3,6,1,1,1,0,0.6000000000000001
+Non-Winners,Mangalarga,1,Trainer C,3,5,0,0,1,1,0.5
+Winners,Thoroughbred,1,Trainer A,3,5,0,0,0,1,0.65
+Non-Winners,Arabian,0,Trainer A,5,3,0,1,1,1,0.55
+Winners,Thoroughbred,1,Trainer A,4,8,0,1,1,1,0.7000000000000001
+Winners,Thoroughbred,1,Trainer D,6,3,1,0,1,1,0.7000000000000001
+Winners,Quarter Horse,1,Trainer C,4,7,0,1,0,0,0.6
+Non-Winners,Quarter Horse,0,Trainer B,6,7,0,1,0,0,0.4
+Non-Winners,Arabian,1,Trainer D,3,4,0,1,1,0,0.5
+Winners,Quarter Horse,1,Trainer D,4,7,0,1,1,1,0.7000000000000001
+Non-Winners,Arabian,1,Trainer D,6,4,0,0,0,1,0.55
+Winners,Quarter Horse,0,Trainer A,5,6,1,0,1,1,0.6000000000000001
+Winners,Thoroughbred,1,Trainer C,5,3,0,1,1,1,0.8500000000000001
+Non-Winners,Arabian,0,Trainer D,4,9,1,1,1,1,0.3
+Non-Winners,Arabian,1,Trainer B,4,6,1,1,0,1,0.4
+Winners,Thoroughbred,1,Trainer C,3,7,0,0,1,1,0.65
+Non-Winners,Arabian,1,Trainer B,4,6,0,1,0,1,0.5
+Non-Winners,Arabian,1,Trainer C,3,6,0,1,1,0,0.5
+Winners,Quarter Horse,1,Trainer B,3,6,0,1,0,0,0.65
+Winners,Arabian,1,Trainer A,5,7,0,1,1,0,0.75
+Non-Winners,Mangalarga,0,Trainer D,5,9,0,0,0,0,0.35000000000000003
+Winners,Thoroughbred,1,Trainer B,6,8,0,1,1,0,0.75
+Winners,Quarter Horse,1,Trainer C,5,6,1,1,1,1,0.7500000000000001
+Non-Winners,Quarter Horse,1,Trainer D,5,4,0,1,0,1,0.6000000000000001
+Winners,Mangalarga,1,Trainer D,4,7,0,0,1,0,0.6
+Winners,Thoroughbred,1,Trainer C,5,6,0,1,0,0,0.75
+Non-Winners,Thoroughbred,1,Trainer B,6,9,0,1,0,0,0.5
+Non-Winners,Quarter Horse,1,Trainer A,4,8,0,1,0,0,0.4
+Winners,Arabian,0,Trainer A,6,7,0,0,1,1,0.65
+Winners,Quarter Horse,0,Trainer B,5,5,0,1,0,0,0.65
+Non-Winners,Thoroughbred,1,Trainer D,6,8,0,1,1,0,0.55
+Non-Winners,Mangalarga,1,Trainer D,4,4,0,1,0,1,0.5
+Non-Winners,Quarter Horse,1,Trainer D,3,6,0,1,0,0,0.45
+Non-Winners,Thoroughbred,1,Trainer D,6,9,1,1,0,1,0.4500000000000001
+Winners,Quarter Horse,1,Trainer B,6,5,1,0,1,0,0.65
+Non-Winners,Arabian,1,Trainer D,4,9,0,1,0,0,0.4
+Non-Winners,Quarter Horse,0,Trainer C,4,5,0,1,1,1,0.44999999999999996
+Winners,Quarter Horse,1,Trainer D,6,7,0,1,0,0,0.7
+Non-Winners,Thoroughbred,1,Trainer A,5,5,0,1,1,1,0.6500000000000001
+Winners,Thoroughbred,1,Trainer D,6,4,1,1,0,0,0.65
+Non-Winners,Thoroughbred,1,Trainer B,4,4,0,0,0,1,0.45
+Non-Winners,Quarter Horse,1,Trainer A,3,3,0,1,0,0,0.45
+Non-Winners,Arabian,1,Trainer B,3,4,0,1,1,1,0.55
+Winners,Mangalarga,1,Trainer B,5,8,0,1,0,0,0.7
+Winners,Mangalarga,0,Trainer A,6,5,0,1,1,1,0.7500000000000001
+Non-Winners,Thoroughbred,1,Trainer B,3,4,0,1,1,0,0.5
+Winners,Thoroughbred,1,Trainer B,6,7,0,1,1,0,0.75
+Winners,Quarter Horse,1,Trainer D,4,9,1,0,1,0,0.5
+Winners,Mangalarga,1,Trainer C,3,9,0,1,1,0,0.65
+Winners,Thoroughbred,1,Trainer B,5,3,1,1,0,0,0.65
+Winners,Arabian,0,Trainer B,4,9,0,0,1,1,0.55
+Winners,Arabian,0,Trainer B,5,5,1,1,1,1,0.6500000000000001
+Non-Winners,Thoroughbred,0,Trainer D,4,3,0,1,0,1,0.39999999999999997
+Non-Winners,Thoroughbred,1,Trainer C,3,5,1,1,1,0,0.4
+Winners,Mangalarga,1,Trainer A,5,7,0,1,0,0,0.7
+Non-Winners,Mangalarga,1,Trainer D,5,3,0,1,0,1,0.6000000000000001
+Non-Winners,Quarter Horse,1,Trainer D,4,6,1,1,0,0,0.35
+Non-Winners,Mangalarga,0,Trainer C,5,8,1,1,0,0,0.3
+Non-Winners,Arabian,1,Trainer C,4,8,0,0,0,0,0.35000000000000003
+Winners,Arabian,1,Trainer D,4,5,0,1,0,1,0.7000000000000001
+Non-Winners,Thoroughbred,1,Trainer A,4,9,0,1,1,1,0.5
+Non-Winners,Mangalarga,1,Trainer D,4,6,0,1,0,1,0.5
+Winners,Quarter Horse,1,Trainer C,3,3,1,1,1,0,0.6000000000000001
+Winners,Arabian,1,Trainer A,4,6,0,1,0,1,0.7000000000000001
+Non-Winners,Arabian,1,Trainer C,6,6,0,0,1,1,0.6000000000000001
+Non-Winners,Quarter Horse,0,Trainer A,5,9,0,0,0,0,0.35000000000000003
+Non-Winners,Quarter Horse,0,Trainer B,6,3,0,1,1,0,0.5
+Non-Winners,Arabian,1,Trainer C,3,7,0,0,0,0,0.35000000000000003
+Non-Winners,Arabian,1,Trainer C,6,9,0,1,1,1,0.6000000000000001
+Non-Winners,Quarter Horse,1,Trainer D,5,6,1,1,0,1,0.5000000000000001
+Winners,Arabian,1,Trainer C,6,6,0,1,0,0,0.75
+Non-Winners,Thoroughbred,1,Trainer C,3,7,0,0,1,1,0.45
+Non-Winners,Thoroughbred,1,Trainer B,4,6,0,1,0,1,0.5
+Winners,Quarter Horse,1,Trainer C,6,6,1,1,0,1,0.7000000000000001
+Winners,Mangalarga,1,Trainer B,3,6,1,0,0,1,0.55
+Winners,Quarter Horse,1,Trainer B,3,8,0,1,1,1,0.7000000000000001
+Winners,Quarter Horse,1,Trainer B,5,9,0,1,1,1,0.8
+Non-Winners,Mangalarga,0,Trainer B,5,4,0,1,1,1,0.55
+Non-Winners,Mangalarga,0,Trainer A,6,9,0,1,1,1,0.5
+Non-Winners,Mangalarga,1,Trainer D,4,7,1,1,0,0,0.3
+Non-Winners,Thoroughbred,0,Trainer A,3,6,0,1,1,1,0.44999999999999996
+Non-Winners,Arabian,1,Trainer C,6,9,0,1,0,0,0.5
+Non-Winners,Thoroughbred,0,Trainer A,3,8,0,0,1,1,0.35
+Winners,Arabian,0,Trainer A,3,7,1,1,0,1,0.4500000000000001
+Non-Winners,Thoroughbred,1,Trainer C,4,5,0,1,0,0,0.45
+Winners,Arabian,1,Trainer C,4,9,1,1,0,1,0.55
+Winners,Thoroughbred,1,Trainer C,6,5,0,1,1,1,0.8500000000000001
+Non-Winners,Mangalarga,1,Trainer A,4,6,1,1,1,1,0.45000000000000007
+Winners,Quarter Horse,1,Trainer A,4,8,0,1,1,0,0.65
+Non-Winners,Thoroughbred,1,Trainer C,6,8,0,1,1,1,0.6000000000000001
+Winners,Arabian,1,Trainer D,4,9,0,1,1,1,0.7000000000000001
+Non-Winners,Mangalarga,0,Trainer D,5,7,0,1,1,0,0.45
+Winners,Thoroughbred,0,Trainer B,3,7,0,1,1,1,0.6000000000000001
+Non-Winners,Thoroughbred,1,Trainer C,3,8,0,1,0,1,0.45
+Non-Winners,Mangalarga,1,Trainer B,3,7,0,1,1,1,0.5
+Non-Winners,Thoroughbred,1,Trainer D,3,8,0,1,1,0,0.45
+Non-Winners,Quarter Horse,1,Trainer B,6,9,0,1,1,1,0.6000000000000001
+Non-Winners,Thoroughbred,0,Trainer C,3,4,0,1,0,1,0.39999999999999997
+Winners,Quarter Horse,1,Trainer C,3,8,0,0,0,1,0.6
+Winners,Quarter Horse,1,Trainer C,3,5,0,1,0,0,0.65
+Winners,Mangalarga,1,Trainer A,3,7,0,1,0,1,0.65
+Non-Winners,Thoroughbred,1,Trainer B,5,8,1,0,1,0,0.4000000000000001
+Winners,Mangalarga,1,Trainer D,3,8,1,1,0,1,0.55
+Non-Winners,Thoroughbred,0,Trainer D,5,9,0,1,1,0,0.45
+Non-Winners,Thoroughbred,1,Trainer D,6,7,1,1,1,0,0.4500000000000001
+Winners,Arabian,1,Trainer A,4,4,0,1,0,1,0.7000000000000001
+Winners,Thoroughbred,1,Trainer A,3,9,0,0,0,1,0.6
+Non-Winners,Mangalarga,0,Trainer C,4,4,0,1,1,1,0.44999999999999996
+Winners,Quarter Horse,0,Trainer D,4,9,1,0,0,1,0.4000000000000001
+Non-Winners,Thoroughbred,1,Trainer A,6,7,0,1,0,0,0.5
+Non-Winners,Arabian,1,Trainer C,4,3,0,1,1,1,0.55
+Non-Winners,Mangalarga,1,Trainer D,5,7,0,1,1,1,0.6000000000000001
+Non-Winners,Thoroughbred,1,Trainer B,4,7,1,1,1,1,0.4000000000000001
+Non-Winners,Mangalarga,0,Trainer C,4,4,0,1,1,0,0.39999999999999997
+Winners,Arabian,1,Trainer A,4,4,0,0,1,1,0.7000000000000001
+Winners,Arabian,1,Trainer A,3,7,0,1,1,1,0.7000000000000001
+Non-Winners,Mangalarga,1,Trainer C,3,7,0,1,1,1,0.5
+Non-Winners,Thoroughbred,1,Trainer C,5,7,0,1,0,0,0.5
+Winners,Quarter Horse,1,Trainer A,5,4,0,1,0,0,0.75
+Winners,Arabian,0,Trainer B,3,7,0,1,0,1,0.55
+Non-Winners,Thoroughbred,1,Trainer D,5,7,0,1,1,1,0.6000000000000001
+Winners,Thoroughbred,1,Trainer B,3,6,0,1,0,1,0.7000000000000001
+Non-Winners,Quarter Horse,1,Trainer C,6,3,0,1,0,1,0.6000000000000001
+Winners,Arabian,1,Trainer B,4,5,0,1,0,0,0.65
+Non-Winners,Arabian,1,Trainer A,4,3,0,0,1,0,0.45
+Winners,Thoroughbred,1,Trainer C,5,6,0,0,0,1,0.75
+Non-Winners,Thoroughbred,0,Trainer D,3,5,0,1,1,0,0.39999999999999997
+Winners,Quarter Horse,1,Trainer A,3,9,0,1,1,1,0.7000000000000001
+Winners,Quarter Horse,1,Trainer A,5,7,0,0,0,0,0.6499999999999999
+Non-Winners,Arabian,1,Trainer D,3,6,0,1,0,0,0.45
+Winners,Mangalarga,1,Trainer D,6,9,0,0,1,1,0.75
+Non-Winners,Arabian,0,Trainer B,4,7,0,1,0,0,0.3
+Winners,Thoroughbred,0,Trainer C,5,4,1,1,0,1,0.6000000000000001
+Non-Winners,Arabian,1,Trainer D,5,8,0,0,1,1,0.55
+Winners,Mangalarga,1,Trainer D,3,6,1,0,0,1,0.55
+Non-Winners,Quarter Horse,1,Trainer C,5,4,0,1,1,1,0.6500000000000001
+Winners,Mangalarga,1,Trainer D,6,6,1,1,0,0,0.65
+Non-Winners,Mangalarga,1,Trainer D,3,6,0,1,0,0,0.45
+Winners,Mangalarga,1,Trainer B,3,4,1,1,1,0,0.6000000000000001
+Non-Winners,Quarter Horse,1,Trainer A,3,5,0,1,0,0,0.45
+Non-Winners,Mangalarga,1,Trainer A,3,3,0,1,0,0,0.45
+Non-Winners,Mangalarga,0,Trainer A,6,7,1,0,0,1,0.3
+Winners,Mangalarga,1,Trainer A,3,6,0,1,0,1,0.7000000000000001
+Non-Winners,Thoroughbred,1,Trainer D,5,7,1,1,0,1,0.4500000000000001
+Winners,Mangalarga,0,Trainer C,6,8,1,1,0,0,0.5
+Non-Winners,Quarter Horse,1,Trainer C,4,4,0,1,0,0,0.45
+Winners,Mangalarga,1,Trainer B,4,7,0,1,0,1,0.65
+Non-Winners,Mangalarga,1,Trainer B,5,4,0,1,1,0,0.6000000000000001
+Winners,Quarter Horse,1,Trainer D,5,7,0,1,0,0,0.7
+Winners,Mangalarga,0,Trainer C,6,3,0,0,1,1,0.7000000000000001
+Non-Winners,Quarter Horse,0,Trainer C,4,3,1,0,0,1,0.24999999999999997
+Winners,Mangalarga,1,Trainer A,4,3,0,1,0,1,0.7000000000000001
+Winners,Quarter Horse,1,Trainer D,4,3,0,0,0,1,0.65
+Non-Winners,Mangalarga,1,Trainer D,4,3,0,1,0,1,0.5
+Winners,Mangalarga,1,Trainer A,4,3,0,1,0,1,0.7000000000000001
+Winners,Thoroughbred,1,Trainer D,3,4,0,1,1,1,0.7500000000000001
+Winners,Thoroughbred,0,Trainer D,5,6,0,1,0,1,0.7000000000000001
+Non-Winners,Mangalarga,1,Trainer B,3,7,0,1,1,0,0.45
+Winners,Mangalarga,0,Trainer C,4,3,0,0,1,1,0.6000000000000001
+Non-Winners,Arabian,1,Trainer D,6,4,0,1,1,0,0.6000000000000001
